@@ -1,0 +1,22 @@
+.hero-image{
+    background-image: url('../assets/hero\ img.webp');
+    height: 575px;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+/* adding image to my text */
+h1 {
+	text-transform: uppercase;
+	font-family: "Arial Black";
+	font-size: 90px;
+	background: url("../assets/wp3469892.webp")top;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+  /* adding image to my text */
+   
+ /* image-heading-text */

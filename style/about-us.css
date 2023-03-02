@@ -1,0 +1,10 @@
+.display-6{
+    text-transform: uppercase;
+    font-family: "Arial Black";
+    font-size: 90px;
+    background: url(../assets/16-167769_black-and-white-electronic.jpg)top;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-attachment: fixed;
+    background-size: cover;
+}
